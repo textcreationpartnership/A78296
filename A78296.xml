@@ -1,0 +1,415 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new and true description of the world as it is now divided in four parts Heathens, Jewes, Turks &amp; Christians.</title>
+            <author>S. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78296</idno>
+            <idno type="STC">Wing C123A</idno>
+            <idno type="STC">ESTC R223563</idno>
+            <idno type="EEBO-CITATION">99897177</idno>
+            <idno type="PROQUEST">99897177</idno>
+            <idno type="VID">135109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2473:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new and true description of the world as it is now divided in four parts Heathens, Jewes, Turks &amp; Christians.</title>
+                  <author>S. C.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author. S.C.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: pi-2pi.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity and other religions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135109:1" rendition="simple:additions"/>
+            <head>A new and true Deſcription of the WORLD As it is now divided In four parts. Heathens, Jewes, Turks &amp; Chriſtians.</head>
+            <p>WOe unto the World becauſe <note place="margin">
+                  <hi>Mat.</hi> 18. 7<g ref="char:punc">▪</g>
+               </note> of offences, (ſaith Chriſt to his Diſciples) Becauſe ye are not of the World
+<pb n="2" facs="tcp:135109:2"/>
+but I have choſen you out of the world, <note place="margin">
+                  <hi>John.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 19</note> therefore the world hateth you.</p>
+            <p>By the World, here is meant the peo<g ref="char:punc">▪</g> of the World, which the Scripture call<g ref="char:EOLhyphen"/>eth the evil World, The Number of un<g ref="char:EOLhyphen"/>godly men, and not the people of God: for none are Gods peculiar people, but ſuch as obey his voice and keep his Covenant, <note place="margin">
+                  <hi>Exo.</hi> 19, 5.</note>
+            </p>
+            <p>And the Apoſtle <hi>John</hi> ſaith, We know that we are of God, and the whole world lyeth in wickedneſſe: <note place="margin">
+                  <hi>Iohn</hi> 5. 19.</note>
+            </p>
+            <p>And as the world hath encreaſed, ſin hath abounded, and its a great queſtion whether when the Son of man cometh he <note place="margin">
+                  <hi>Luk.</hi> 18. 8.</note> ſhall find faith on the earth.</p>
+            <p>AFter the old Creation. In the year of the world, one thouſand ſix hundred fifty and ſix, The old World, <note place="margin">2 <hi>Pet.</hi> 2. 5.</note> which the Apoſtle <hi>Peter</hi> calleth the world of the ungodly, That world ut<g ref="char:EOLhyphen"/>terly periſhed by the Flood, In which time of deſtruction, the Church of God (which then conſiſted but of few, even eight perſons) was preſerved, remaining <note place="margin">1 <hi>Pet.</hi> 3. 20.</note> about three hundred ſeventy and five dayes in <hi>Noah</hi>'s Arke. Then when the flood was gone, and the earth was dryed
+<pb n="3" facs="tcp:135109:2"/>
+they went out, and (by Gods bleſſing) encreaſed and multiplyed upon the earth, But moſt of them fell away from the truth; And there began another world of ungodly men, and have continued in a way of ſucceſſion unto this day, the children inhetiting their fathers ſins, and approving of their evil ſayings. <note place="margin">
+                  <hi>Pſal.</hi> 49. 13</note> This is the world, but not the world whichi was before the Flood, nor the world to come, but this preſent evil world, deſcribed in this Treatiſe.</p>
+            <p>BEfore the deceaſe of <hi>Noah,</hi> even in the dayes of <hi>Peleg,</hi> the earth was divided: For at the building of <hi>Babel</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> 10. 25 11.</note> God confounded the language of all the people of the earth, for their pride, vain glory, and infidelitie, and ſcatter<g ref="char:EOLhyphen"/>ed them abroad throughout all the earth. And did ſet the Bounds of the people of each language, that they ſhould ſeek the <note place="margin">
+                  <hi>Act.</hi> 17, 26.</note> Lord.</p>
+            <p>But in ſtead of ſeeking the Eternal God that made them they fell to making and worſhiping Idols, according to their own fancies. And <hi>Babilon</hi> was the prin<g ref="char:EOLhyphen"/>cipal ſeat of Idolatry, and abounded in <note place="margin">
+                  <hi>Zech.</hi> 5. 6, 11.</note> Tyrany, yet it was called the glory of <note place="margin">
+                  <hi>Iſa.</hi> 13, 19.</note>
+               <pb n="4" facs="tcp:135109:3"/>
+Kingdomes, and the beauty of the <hi>Chal<g ref="char:EOLhyphen"/>deans</hi> Excelencie, and continued above thirty generations, until the ſeventy years of the Captivity of <hi>Judah</hi> ended.</p>
+            <p>And ſince that golden Kingdom ceaſ<g ref="char:EOLhyphen"/>ed, all the other three, <hi>(Perſian, Gre<g ref="char:EOLhyphen"/>cian,</hi> and <hi>Roman,)</hi> ſucceſſive worldly Monarchs, have been inferior in world<g ref="char:EOLhyphen"/>ly <note place="margin">
+                  <hi>Dan.</hi> 2. 38, 39, 40.</note> dignity, (as Silver is inferior to Gold, and Braſs to Silver, and Iron to Braſs) although they were never ſoe ſucceſsful in their victorious conqueſts, the later againſt the former.</p>
+            <p>Yet notwithſtanding the Lord of hoſts hath in the times before of old (as well as ſince) puniſhed the Kingdoms and Nations for their ſins, eſpecially for their Idolatry; Nation roſe up againſt Nation, and Kingdome againſt King<g ref="char:EOLhyphen"/>dome, and made great warrs againſt each other; particularly (before the de<g ref="char:EOLhyphen"/>ſtruction of <hi>Sodome</hi> and <hi>Gomora</hi> with fire and brimſtone) <hi>Amraphel</hi> King of <hi>Shy<g ref="char:EOLhyphen"/>nar, Arioch</hi> King of <hi>Alaſar, Cheodarlao<g ref="char:EOLhyphen"/>mer</hi> King of <hi>Elam,</hi> and <hi>Tydall</hi> King of Nations. Theſe made warre againſt five Kings, and their Subjects, (which rebelled againſt them) and ſubdued them, and ſmote the <hi>Rephaims,</hi> and the
+<pb n="5" facs="tcp:135109:3"/>
+               <hi>Zuzims,</hi> and the <hi>Emims,</hi> and the <hi>Ho<g ref="char:EOLhyphen"/>rites</hi> and <hi>Amorites,</hi> and victoriouſly conquered thoſe Giants, whoſe height was as Cedars, and their ſtrength as <note place="margin">
+                  <hi>Deut,</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 11. 12. 20.</note> Oakes, and they took the ſpoil with thoſe they led captive.</p>
+            <p>But thoſe Conquering Kings, taking juſt <hi>Lot</hi> captive (who was no Idolater, but a true worſhiper of the living God) it was their ruine, for God who had raiſed up <hi>Abram</hi> from <hi>Ur</hi> of the <hi>Chal<g ref="char:EOLhyphen"/>deans,</hi> 
+               <note place="margin">
+                  <hi>Neh,</hi> 9. 7, <hi>Iſa,</hi> 41, 1, 2, 3.</note> and after called him from <hi>Charan</hi> of <hi>Meſopotamia</hi> into the land of <hi>Canaan,</hi> and gave the Nations before him, and made him rule over Kings, he gave them as duſt to his ſword, and as driven ſtub<g ref="char:EOLhyphen"/>ble to his bow; he purſued them, and paſſed ſafely, by the way that he had not gone.</p>
+            <p>For that Story in <hi>Geneſis</hi> (14) ſaith, That when <hi>Abram</hi> heard that his bro<g ref="char:EOLhyphen"/>ther <hi>Lot</hi> was taken captive, he, with his trained ſervants three hundred and eighteen purſued thoſe Armies, and re<g ref="char:EOLhyphen"/>covered all, and ſlew <hi>Chedarlaomer</hi> King of <hi>Elam,</hi> and the Kings that were with him, and brought back the Captives with the ſpoyle which wonderful and victori<g ref="char:EOLhyphen"/>ous Conqueſt did put the world in a maze,
+<pb n="6" facs="tcp:135109:4"/>
+and filled their hearts with fear and terror. (for they were all Idolaters) And <hi>Abram,</hi> and his fellowes were con<g ref="char:EOLhyphen"/>trary unto them in Religion as light is to darkneſſe</p>
+            <p>Then upon this mighty and wonder<g ref="char:EOLhyphen"/>ful Conqueſt. The Iſles feared, The ends of the earth were afraid, drew near and came, and fell to making more Idols, in ſtead of turning to the Lord. They helped every one his Neighbour, and every one ſaid to his brother, be of good courage: So the Carpenter en<g ref="char:EOLhyphen"/>couraged the Goldſmith, and he that ſmoothed with the hammer, him that ſmote the Anvill, ſaying, It is ready for ſodering, and he faſtened it with <note place="margin">
+                  <hi>Iſa.</hi> 41. 24, 29.</note> nayles, that it ſhould not be moved. But they were worſe then nothing, an abomination, and their Images wind and confuſion.</p>
+            <p>Yet the world continued ſtill in wic<g ref="char:EOLhyphen"/>kednes, and would not be perſwaded from their falſe worſhip, by all Gods chaſtiſements of them, and the remark<g ref="char:EOLhyphen"/>able examples of Gods judgments, a<g ref="char:EOLhyphen"/>gainſt <hi>Sodom</hi> and <hi>Egypt,</hi> and his wonder<g ref="char:EOLhyphen"/>full miracles, which appeared afterwards <note place="margin">
+                  <hi>Ioſh.</hi> 2. 9, 10, 11. <hi>Exo.</hi> 15. 14 15, 16.</note> and were famous to the world, but their
+<pb n="7" facs="tcp:135109:4"/>
+hearts were hardened, to their own de<g ref="char:EOLhyphen"/>ſtruction, for one and thirty Kings and their kingdomes were deſtroyed by <note place="margin">
+                  <hi>Ioſh.</hi> 12. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> 
+               <hi>Joſhua,</hi> and none made their peace ſave only the <hi>Gibeonites,</hi> who became hewers <note place="margin">
+                  <hi>Ioſh.</hi> 9.</note> of wood, and drawers of water, for the ſanctuary of the Lord.</p>
+            <p>After God had ſetled his peculiar peo<g ref="char:EOLhyphen"/>ple <note place="margin">
+                  <hi>Act.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 20.</note> (the Iſraelites) in their land, divid<g ref="char:EOLhyphen"/>ing it to them by lot, he gave them Judges until <hi>Samuel</hi> the Prophet.</p>
+            <p>And afterwards they deſired a King, before the time: And God gave them <note place="margin">
+                  <hi>v.</hi> 21.</note> King <hi>Saul,</hi> whom he anoynted. who reigned forty years. <note place="margin">
+                  <hi>v.</hi> 22.</note>
+            </p>
+            <p>And when he had removed him, he raiſed up unto them <hi>David,</hi> to be their King, who reigned forty years.</p>
+            <p>Afterwards <hi>Solomon</hi> reigned over all <hi>Iſrael,</hi> the ſpace of forty years, without warre, <hi>Judah</hi> and <hi>Iſrael</hi> were many as <note place="margin">2 <hi>Chr.</hi> 9. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 1 <hi>Kin.</hi> 11. 12, 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 <hi>Chr.</hi> 9. 26. 1 <hi>Kin.</hi> 12. 24. 2 <hi>Chr.</hi> 11. 4.</note> the ſand, which is by the Sea, for mul<g ref="char:EOLhyphen"/>titude, eating and drinking, and mak<g ref="char:EOLhyphen"/>ing merry.</p>
+            <p>But afterwards for <hi>Solomons</hi> Apoſtacy and Idolatry, God did rend ten parts of his Kingdome from his ſon <hi>Rehoboam,</hi> and made <hi>Jeroboam</hi> the ſon of <hi>Nebat</hi> King of <hi>Iſrael,</hi> even over ten Tribes,
+<pb n="8" facs="tcp:135109:5"/>
+without warrs, which King fell to Ido<g ref="char:EOLhyphen"/>latry, and made Golden calves for gods, and builded high places for his falſe wor<g ref="char:EOLhyphen"/>ſhip againſt the lawes of God, and ſet up <note place="margin">1 <hi>Kin,</hi> 12, 24</note> baſe fellowes to be prieſts of thoſe high places, and made other alterations in matters of Gods worſhip, by his evil counſel which he took, which the mul<g ref="char:EOLhyphen"/>titude <note place="margin">1 <hi>Kin,</hi> 12, 28, 31. &amp; 13, 33, <hi>&amp;</hi> 13, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5, 16, 2 <hi>Kin,</hi> 13, 3, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7,</note> followed, for which God puniſhed them with warre and other calamities: for five hundred thouſand choſen men out of 800000 valliant men of King <hi>Je<g ref="char:EOLhyphen"/>roboams</hi> Armie were ſlain in one battail. And afterwards they were greatly dimi<g ref="char:EOLhyphen"/>niſhed by ſeveral judgments unto the time of <hi>Jeoahaz</hi> King of <hi>Iſrael,</hi> in the time of whoſe reign God delivered them into the hand of the King of <hi>Siria,</hi> who made them low, as the duſt by threſh<g ref="char:EOLhyphen"/>ing, ſo that he did not leave of the peo<g ref="char:EOLhyphen"/>ple to <hi>Jehoahaz,</hi> but fifty horſmen, and <note place="margin">2 <hi>Kin.</hi> 13, 7,</note> ten Chariots, and ten thouſand footmen. And in the reign of <hi>Hoſhea</hi> their laſt and beſt King, all the remnant of <hi>Iſrael</hi> were carried away captive by <hi>Shalme<g ref="char:EOLhyphen"/>nazar</hi> King of <hi>Aſſiria.</hi> 
+               <note place="margin">2 <hi>Kin,</hi> 17, 2,</note>
+            </p>
+            <p>And the Tribe of <hi>Judah</hi> alſo with <hi>Benjamin,</hi> fell to Idolatry, Therefore God diminiſhed them by thouſands and
+<pb n="9" facs="tcp:135109:5"/>
+hundreds of thouſands, (by many ſore judg<g ref="char:EOLhyphen"/>ments, as the ſword, famine, and peſti<g ref="char:EOLhyphen"/>lence.) And ſo great was the Lords wrath <note place="margin">
+                  <hi>Ier,</hi> 15, 2,</note> againſt them, that he would not hear their cry, nor any prayer for them, for he ſaid to his Prophet <hi>Jeremiah,</hi> when they faſt, I will not hear their cry, and pray not for this people, But appointed him to take forth the precious from the vile, and ſaid, Let them return unto thee, <note place="margin">
+                  <hi>Ier.</hi> 15, 19,</note> but return not thou unto them. And in the eleventh year of the reign of King <hi>Zedekiah</hi> they alſo were carried away <note place="margin">
+                  <hi>&amp;</hi> 52,</note> captive into <hi>Babilon.</hi>
+            </p>
+            <p>But in Captivitie and affliction, Gods people did bethink themſelves, and re<g ref="char:EOLhyphen"/>pented, and their uncircumciſed hearts were humbled, and they returned to the Lord their God with their whole heart, Therefore God comforted them by his promiſes, and Providence, and deliver<g ref="char:EOLhyphen"/>ed <note place="margin">Eſter.—</note> them from the bloody plots of their malignant enemies, and cauſed them to find favour in the ſight of them that led them captive. And when the ſeventy years of <hi>Judahs</hi> captivity were accom<g ref="char:EOLhyphen"/>pliſhed, <note place="margin">Ezra.—.</note> Gods people (the Jewes) were delivered out of captivity, and returned again into their own Land, and there
+<pb n="10" facs="tcp:135109:6"/>
+they renewed their covenant with God, and were ſetled, and encreaſed, and multiplyed, under the power and pro<g ref="char:EOLhyphen"/>tect <note place="margin">
+                  <hi>Nehemiah. chapter.</hi> 9. 36, 37, 38 <hi>Dan.</hi> 10. 13 20, 21. <hi>&amp;</hi> 8. 5, 7, 21.</note> on of the King of <hi>Perſia</hi> (That ſilver Monarch,) until the Prince of <hi>Perſia</hi> withſtood them.</p>
+            <p>Then God fought againſt that perſe<g ref="char:EOLhyphen"/>cuting Prince, and raiſed up the King of <hi>Greece,</hi> who ſubdued the Perſian pow<g ref="char:EOLhyphen"/>er, and did bear rule over all the earth, and Gods people had liberty of con<g ref="char:EOLhyphen"/>ſcience under the <hi>Greeks</hi> (that Brazen Monarch,) but at laſt the Saints ſuffered great perſecution for conſcience ſake, <note place="margin">
+                  <hi>Dan.</hi> 11. 16 2 <hi>M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 7. Heb. 11. 35 36, 37, 38,</note> under that power, and were cruely uſed, and expoſed to much hardſhip, hunger, cold and nakedneſſe, in ſaving their lives, they wandred about in Sheepskins and in Goatskins, and were deſtitute, afflicted and tormented, and although they were ſuch of whom the world was not worthy, for they were the ſons of God yet they wandred in deſerts, &amp; in Moun<g ref="char:EOLhyphen"/>tains &amp; in dens &amp; in caves of the earth.</p>
+            <p>Then the Church of God conſiſting of precious Sains, whoſe converſation was in heaven, was as a woman crying, tra<g ref="char:EOLhyphen"/>velling, in birth, pained to be deliver<g ref="char:EOLhyphen"/>ed, and longing for the coming of Chriſt
+<pb n="11" facs="tcp:135109:6"/>
+Jeſus the Son of God, to deliver them out of the hands of their enemies, that they might ſerve him, without fear, in holyneſſe and righteouſneſſe before him <note place="margin">
+                  <hi>Luk,</hi> 1. 74, 75</note> all the dayes of their lives.</p>
+            <p>In time (before our Saviours birth) God raiſed up the Sons of <hi>Syon,</hi> againſt <note place="margin">
+                  <hi>Zac.</hi> 9. 13.</note> the ſons of <hi>Greece,</hi> and made them fight valliantly, and do exploits, and they <note place="margin">
+                  <hi>Dan.</hi> 11. 32</note> were victorious, at ſeveral times, againſt their cruel bloody perſecutors, yet the remainder of their enemies were many and lively, and oft times moleſted them, ſo that the Saints could not be quiet to ſerve the Lord, but were ſtill in fear.</p>
+            <p>But God did in proceſs of time, put down the <hi>Grecian</hi> power, and did ſet up the Romans, who did bear dominion over all the world, under whoſe <note place="margin">
+                  <hi>Luk,</hi> 2. 1, 2, 3, 4, 5. 1.</note> power Gods people the Jewes lived, and had liberty to practice their Religion publiquely in their own land, but had no Authority to put any man to death, but were ſubject to the <hi>Roman</hi> power, <note place="margin">
+                  <hi>Ioh.</hi> 18. 31, <hi>Mat.</hi> 22. 19. 21. <hi>Mat.</hi> 17. 25 <hi>Ro.</hi> 23. 6. 7. 1 <hi>Pet.</hi> 2. 13, 14. <hi>Dan.</hi> 9. 25, 26.</note> unto whom they paid taxes, and Tri<g ref="char:EOLhyphen"/>bute, in Chriſts time, which Chriſt himſelf ſubmitted unto, as his parents before him, (and his Apoſtles after) and in the four hundred thirty and fourth year after the building of the wall of <hi>Jeruſalem</hi>
+               <pb n="12" facs="tcp:135109:7"/>
+by <hi>Nehemiah,</hi> Chriſt Jeſus our Lord was crucified, and dyed under that <hi>Roman</hi> power.</p>
+            <p>But God the father raiſed up his ſon <note place="margin">1 <hi>Cor,</hi> 15. 4, <hi>Mat.</hi> 28, 18, 19.</note> Chriſt, on the the third day after his crucifying, And gave him all power both in heaven and in earth, therefore Chriſt gave commiſſion to his Apoſtles to preach the goſpel to all nations for their ſalvation, which wrought power<g ref="char:EOLhyphen"/>fully and effectually, throughout the <note place="margin">
+                  <hi>Gal,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7. 8, <hi>Act,</hi> 22. 18. <hi>Rev,</hi> 6. <hi>&amp;</hi> 9, 20. <hi>&amp;</hi> 13. <hi>&amp;</hi> 16. 11, 13, 14. <hi>&amp;</hi> 18. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Acts</hi>
+               </note> world amongſt Jews and Gentiles: But to this day the greater part of them (have and do and will) ſtand out againſt it, to their own deſtruction, and although mul<g ref="char:EOLhyphen"/>titudes both of Jews and Gentiles, have been converted to the faith, yet ſince thoſe primative times, there hath been a great falling away, and a general departure from the faith and Order of the <note place="margin">2 <hi>Theſ,</hi> 2. 3. 2 <hi>Pet,</hi> 2. 2.</note> Goſpel and men have given heed, and ſtill give heed to ſeducing ſpitits and <note place="margin">1 <hi>Tim,</hi> 4. 2. 3</note> doctrines of devils, ſpeaking lies in hi<g ref="char:EOLhyphen"/>pocriſie, having their conſcienſes ſear<g ref="char:EOLhyphen"/>ed with an hot Iron, forbiding to marry and commanding to abſtain from meats, againſt Gods commands.</p>
+            <p>And theſe dayes are the laſt dayes pe<g ref="char:EOLhyphen"/>rillous times, wherein men are lovers of their own ſelves, covetous, boaſters,
+<pb n="13" facs="tcp:135109:7"/>
+proud, blaſphemers, diſobedient to Pa<g ref="char:EOLhyphen"/>rents, unthankful, unholy, without na<g ref="char:EOLhyphen"/>tural affection, truce breakers, falſe ac<g ref="char:EOLhyphen"/>cuſers, incontinent, fierce deſpiſers of thoſe that are good, Traytors, heady, high minded, lovers of pleaſures more then lovers of God, and yet theſe miſ<g ref="char:EOLhyphen"/>creants, <note place="margin">2 <hi>Tim,</hi> 3. 1, 5.</note> have a form (but not the very form or power) of Godlineſſe, for they deny the ſame in their converſations, from ſuch (ſaith the Apoſtle) turn away, although they profeſſe that they know God yet in works they deny him, being abominable and diſobedient, and to e<g ref="char:EOLhyphen"/>very good work reprobate. Theſe are not as Virgins; but defiled, pro<g ref="char:EOLhyphen"/>phane, open, wicked perſons, poluted in their lips and in their lives, though <note place="margin">
+                  <hi>Tit,</hi> 1. 16.</note> they call themſelves chriſtians, they are Chriſts greateſt enemies, and make the times more evil and perilous, and are worſe then Heathens, Jewes and Turks, whoſe converſion they hinder, by their deviliſh doctrines, rediculous forms of worſhip, and odious carriages, hard-heartedneſſe and impennetencie. So that now at this time, in matters of Re<g ref="char:EOLhyphen"/>ligious and ſpiritual worſhip,. The world in general, conſiſteth of four parts. 1 Heathens. 2. Jewes. 3. Turks.
+<pb n="14" facs="tcp:135109:8"/>
+and 4. Chriſtians. The laſt of which (even Chriſtians) are the leaſt part of the world, (but the 6th part ſay ſome writers) yet theſe chriſtians amongſt themſelves are greatly divided in matters of Religion, but they all conclude a<g ref="char:EOLhyphen"/>gainſt the heathens, Jewes and Turks, and renounce and diſclaim their commu<g ref="char:EOLhyphen"/>nion, eſteeming them that they be the Church of the devil, the Synagogue of Sathan, and <hi>Luther</hi> ſaith the Turk is the Body—of Antichriſt, yet are they innumerable <note place="margin">
+                  <hi>Rev.</hi> 9. 16. <hi>Rev.</hi> 20. 8, 9.</note> as the ſand of the Sea, but they are all out of the way, and not ſo good as one mortal Saint.</p>
+            <p>For the Heathens worſhip many gods, which by nature are no gods. The Jews in expreſſe words deny that Chriſt is come in the fleſh. The Turks, and al<g ref="char:EOLhyphen"/>moſt all others, do deny him, in their works, for although the Turks do ac<g ref="char:EOLhyphen"/>knowledge and worſhip the true God, af<g ref="char:EOLhyphen"/>ter a manner, yet do they ſerve <hi>Maho<g ref="char:EOLhyphen"/>met.</hi> And although they proteſt againſt the worſhipers of Images, (as Prote ſtants againſt Papiſts) yet they worſhip God by a diviſed rediculous ſtinted Service Book, of their own invention. contrary to Gods inſtitutions.</p>
+            <p>
+               <pb n="15" facs="tcp:135109:8"/>
+Chriſtian;, though divided greatly in opinion and affection, yet moſt of them in humane traditions and divine (or ra<g ref="char:EOLhyphen"/>ther diviſed) Services, are not untyed, but entangled in each others principles and practices, Church miniſtry, worſhip and diſcipline, like to like, Mother &amp; daugh<g ref="char:EOLhyphen"/>ter jumping together, in the ſeeming circumſtances of times and places, and many other matters; O how heatheniſh are they in their common talke, and carnal Songs: Their ſpeeches and prac<g ref="char:EOLhyphen"/>tices ſhew, as if they had the Heathen gods and godeſſes and their Temples in great eſteem. Where the graves tombs and Monuments of the dead be, there are their Temples for their Religious <note place="margin">
+                  <hi>Iſa.</hi> 65. 4.</note> worſhip. For their hearts remaineth there among the graves, and lodge in the Monuments, (like the men poſſeſſed with devils, who came out of the Tombs exceeding fierce, [their tipes,] for there was their dwelling, being driven of the <note place="margin">
+                  <hi>Mat.</hi> 8. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. <hi>Mar.</hi> 5. 3.</note> Devil,) which doleſom and Idolatrous places, in this land were, and in other lands are, places of refuge and protection for wilful murderers. And theſe miſer<g ref="char:EOLhyphen"/>able ſinners, are ſtrongly poſſeſſed with ſtrange opinions, that there are degrees
+<pb n="16" facs="tcp:135109:9"/>
+of holineſſe in thoſe Idolatrous Temples which were built for heatheniſh and Po<g ref="char:EOLhyphen"/>piſh ſervices.</p>
+            <p>Yet theſe Chriſtians (or rather Anti<g ref="char:EOLhyphen"/>chriſtians) are in continual variance amongſt themſelves, Perſecuting one a<g ref="char:EOLhyphen"/>nother extreamly, to the death, as they have power and oppertunity, cenſuring one another as Sciſmaticks, and condemn<g ref="char:EOLhyphen"/>ing one another as Hereticks, often Writing, Preaching, Praying, &amp; fighting againſt one another as mortal Enemies, (witneſſe <hi>Spain, France, Germany,</hi> &amp; other places in <hi>Europe)</hi> living in hatred &amp; ha<g ref="char:EOLhyphen"/>ting one another, for peace is taken from the earth, and the way thereof the world knoweth not, therefore the Angel with his ſharpe Sickle is reaping them, and <note place="margin">
+                  <hi>Rev,</hi> 14. 14 <hi>Rev,</hi> 14. 18 19, 20.</note> the Vine of the earth (even the falſe Church) with the cluſters thereof ſhall be cut down, and caſt into the great winepreſſe of the wrath of God. For their vine is the vine of <hi>Sodom,</hi> and of the fields of <hi>Gomorra,</hi> their grapes are the grapes of gall, and their cluſters are <note place="margin">
+                  <hi>Deut,</hi> 32. 32 33, 34, 35.</note> bittet, Their wine is the poyſon of Dra<g ref="char:EOLhyphen"/>gons, and the cruel venim of Aſpes, the day of their calamitie is at hand, and the evil things that ſhall come upon them
+<pb n="17" facs="tcp:135109:9"/>
+make haft. Yet the Roman Catholicks ſay that they are the true Church, So ſaith the Prelaticall Church for them<g ref="char:EOLhyphen"/>ſelves, and ſo ſay other churches for them<g ref="char:EOLhyphen"/>ſelves, But there is but one way of ho<g ref="char:EOLhyphen"/>lyneſs in which all Chriſtians ought to walk as they hope for ſalvation, and that is the way of Separation, for the Scrip<g ref="char:EOLhyphen"/>ture ſaith. What fellowſhip hath righ<g ref="char:EOLhyphen"/>teouſneſs <note place="margin">2 <hi>Cor.</hi> 6.</note> with unrighteouſneſs? What communion hath light with darkneſs? what concord hath Chriſt with Belial? what part hath the believer with the infidels? what agreement hath the Tem<g ref="char:EOLhyphen"/>ple of God with Idols? For the Church of God is the Temple of God: wherein God hath promiſed to dwell and walk, Therefore Gods people muſt come out from amongſt the Antichriſtian aſſem<g ref="char:EOLhyphen"/>blies, and be ſeperate, and not touch the unclean thing. For the Church of Chriſt is ſet forth by the Apoſtle <hi>Peter</hi> to conſiſt of lively ſtones, built up a <note place="margin">1 <hi>Pet,</hi> 2. 5.</note> Spiritual houſe, they are Gods peculiar people, ſeperated from the world, in matters of Spiritual Worſhip. But the churches of Antichriſt, conſiſt of mixed ſwarms of ſinners, unrighteous perſons, <note place="margin">1 <hi>Cor.</hi> 6. 9. 1 <hi>Pet.</hi> 4. 17, 18.</note> and the Scripture ſaith the unrighteous ſhall not inherit the Kingdome of God,
+<pb n="18" facs="tcp:135109:10"/>
+Be not deceived neither fornicators, nor Idolaters, nor adulterers, nor effemi<g ref="char:EOLhyphen"/>nate, nor abuſers of themſelves with mankind, nor theeves, nor coveteous, nor drunkards, nor revilers, nor extor<g ref="char:EOLhyphen"/>tioners, ſhall inherit the Kingdome of God.</p>
+            <p>I know Antichriſts Churches will la<g ref="char:EOLhyphen"/>bour to juſtifie themſelves by the infir<g ref="char:EOLhyphen"/>mities of others, The inceſtious perſon ſay they was ſuffered by the Church of <hi>Corinth,</hi> but they ſhould obſerve that that church upon admonition did put <note place="margin">2 <hi>Cor.</hi> 7. 11,</note> away from amongſt them that wicked perſon, They ſorrowed after a godly ſort, it wrought in them carefulneſs, clearing of themſelves, indignation, fear, ve<g ref="char:EOLhyphen"/>hement deſire, zeal, revenge, in all things they approved themſelves to be clear of this matter.</p>
+            <p>Now the churches of Antichriſt con<g ref="char:EOLhyphen"/>ſiſt of a mixed multitude of ſinners, ſuch as are before mentioned, ſwarms of For<g ref="char:EOLhyphen"/>nicatos, Lyars, Sabbath breakers, and and Idolaters, eating and drinking and dancing about Dame <hi>Flora's</hi> pillars, Swearing and curſing is common amongſt them, yea ſwearing by the Maſs (as Iſrael did by the ſin of <hi>Samaria)</hi> much uſed
+<pb n="19" facs="tcp:135109:10"/>
+in the countryes, yea the names of the Idol gods are frequent in their mouthes, not in contempt of them, but in praiſe, they are the foretops and frontiſ-peeces of their Triumphals: Its a common thing for them not only to revile one another in jeſt, and in earneſt, but thoſe who reprove or convict them of ſin, they malitiouſly reproach and ſlander, as the heathens vilified the chriſtians, in the time of the ten perſecutions, which doth greatly aggravate theſe obſtinate ſin<g ref="char:EOLhyphen"/>ners ſin, and manifeſteth them to be veſſels of wrath, fitted for deſtruction.</p>
+            <p>The abominable ſin of Pride, the deadly ſin of flothfulneſſe, the deteſtible ſins of drunkeneſſe and whoredom, o<g ref="char:EOLhyphen"/>preſſion and cruelty, doth exceedingly abound, and execrations of damnation and drinking healths directly and indi<g ref="char:EOLhyphen"/>rectly againſt the Kings command, fre<g ref="char:EOLhyphen"/>quently uſed by Capital offenders, the worſt of men.</p>
+            <p>And yet all theſe call themſelves chriſtians, and ſay they believe in the Catholick Church, and have forms of Worſhip anſwerable to their profeſſion, but their worſhip is in vain, as good never a wait as never the better, and
+<pb n="20" facs="tcp:135109:11"/>
+the nearer their Church the further from God, For he cares neither for them, nor their worſhip, but hates ſuch combuſta<g ref="char:EOLhyphen"/>ble ſtuff, and ſo do I, O Lord gather not my ſoul with ſinners, for I hate the Church of evil doers. <note place="margin">
+                  <hi>Pſal.</hi> 26,</note>
+            </p>
+            <p>And if there by any (as I hope there are many) in their Church which hate theſe iniquities and enormities, yet they are unclean while they partake with ſuch ſinners in their Spiritual worſhip publiquely or privately, for the preci<g ref="char:EOLhyphen"/>ous ought to ſeparate from the vile, and muſt be holy in all manner of con<g ref="char:EOLhyphen"/>verſation.</p>
+            <p>And although many of their Church members are Civil in their dealings a<g ref="char:EOLhyphen"/>bout common affairs, courteous, loving, kind natured, free hearted, true and truſty in matters of accompt betwixt man and man; What of this? Do not the heathens the ſame? And cannot the Turks ſay as much for themſelves? Yet it doth not prove them to be the people of God, no more are theſe, They are of the world, and therefore not of the Church.</p>
+            <p>But the Papiſts ſet down marks, (as unitie, univerſaltity, and conſtancy,)
+<pb n="21" facs="tcp:135109:11"/>
+to prove that their church, is the true Church, but alas, This their plea is not ſufficient, It may ſerve as well for Turks and Heathens, who exceed them in number, and are unanimous, and pro<g ref="char:EOLhyphen"/>ſperous, conſtant, and conceited in their wayes.</p>
+            <p>But let the Roman Catholick church have her due, ſhe ſaith ſhe is the mother Church, And indeed ſhe is the mother Church of falſe Churches, Miſterie Ba<g ref="char:EOLhyphen"/>bilon the great, the Mother of harlots.</p>
+            <p>And the working of the man of ſin, in the miſterie of iniquitie, is after the working of Sathan, with all power and ſignes and lying wonders: So the Apoſtle deſcribeth Antichriſt. There<g ref="char:EOLhyphen"/>fore Miracles are not the marks of a true <note place="margin">
+                  <hi>Deut.</hi> 13, 1, 5.</note> Church, nor of a true Prophet. And the throne of iniquitie may have out<g ref="char:EOLhyphen"/>ward <note place="margin">
+                  <hi>Rev.</hi> 13. 7, <hi>Dan.</hi> 7. 21, 24.</note> proſoeritie, and wear out the Saints of the moſt high, and continue as ap<g ref="char:EOLhyphen"/>peareth by the Scriptures.</p>
+            <p>But the Papiſts will not prove their Church to be true, by the Scriptures [contemned and condemned by their general Counſells] but labour to prove <note place="margin">ſe Ainſworth againſt Ainſworth</note> their Church by their Church! The ſame by the ſame!</p>
+            <p>
+               <pb n="22" facs="tcp:135109:12"/>
+So the falſe Apoſtles meaſur'd them<g ref="char:EOLhyphen"/>ſelves by themſelves, which practice the Apoſtle <hi>Paul</hi> condemned as irrational, and rational men count it rediculous. <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 10. 12,</note>
+            </p>
+            <p>But they have an exceeding high eſtimation of their Sacrament of their Altar, They ſay it is a Sacrifice, and the bread, they ſay is the real body of Chriſt, after that is done which they call conſecration, but it is execration, for they kneel down before it, and wor<g ref="char:EOLhyphen"/>ſhip it, and then eat it up. And be<g ref="char:EOLhyphen"/>cauſe they hold the Maſs to be a Sacrifice propitiatory for the quick and the dead, they have of their own diviſing erected an Office of Prieſthood, here on earth to offer it up. And the Prieſts of the Church of <hi>England,</hi> as well as of <hi>Rome,</hi> (a number of ſinfull, mortal, infirm, and imperfect men neither of the Tribe of <hi>Levi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> nor of <hi>Judah)</hi> are Ordained Prieſts by office, [without Oath] and ſo void, utterly void by the Law, and by the Goſpel. As appeareth in the <note place="margin">
+                  <hi>Heb.</hi> 9. 24. <hi>&amp;</hi> 12,</note> Epiſtle to the <hi>Hebrewes Heb:</hi> 7. 12, 16, 18, 21, 23. 28. and 9. 10. &amp;. 10 1.</p>
+            <p>But the proper Office of Prieſthood is in the heaven it ſelfe, wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the Lord Jeſus
+<pb n="23" facs="tcp:135109:12"/>
+Chriſt the only high Prieſt executeth that Office at the right hand of God, not on earth, for the Scripture ſaith if Chriſt were here on earth he ſhould not be a Prieſt. <hi>Heb:</hi> 8. 4.</p>
+            <p>But when Chriſt aſcended up on high he gave gifts unto men, ſome Apoſtles <note place="margin">
+                  <hi>Eph.</hi> 4. 11, 12.</note> and ſome Prophets, and ſome Evange<g ref="char:EOLhyphen"/>liſts and ſome Paſters and Teachers, No Offices of Popes, Cardinals, Abotts, Monks, Arch-Biſhops, Lord Biſhops, Parſons, Vicars, Curates, and ſuch like [falſe Prieſts, falſe Chriſts] who hold an Office of Prieſthood among themſelves by a ſucceſſion, to offer up at their Altars the ſuppoſed fleſh and blood of Chriſt.</p>
+            <p>And they have made ſeven orders of Prieſthood, and the Prieſthood belong<g ref="char:EOLhyphen"/>ing thereunto, are the ſeven heads of their monſtruous Beaſt, having the names of blaſphemie upon them, and they are cal<g ref="char:EOLhyphen"/>led ſeven Mountaines, for bigneſs, for they are many, upon which the great whore of <hi>Rome</hi> (even the great City) ſit<g ref="char:EOLhyphen"/>teth, Reigning over the Kings of the earth, And one of his heads was as it <note place="margin">
+                  <hi>Rev.</hi> 13. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> were wounded <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> death, ſaith the <hi>Reve<g ref="char:EOLhyphen"/>lation,</hi> and his deadly wound was healed, but their end ſhall be eternal deſtruction,
+<pb n="24" facs="tcp:135109:13"/>
+for that Beaſt and the falſe Prophet that worketh miracles before him, ſhall be both together, caſt alive into hell.</p>
+            <p>And there is likewiſe an Image of <note place="margin">
+                  <hi>Rev.</hi> 19. 20</note> that beaſt, the particular National Pre<g ref="char:EOLhyphen"/>latical convocations, as <hi>Wilkinſon</hi> makes it out, in his learned Expoſition upon the 13th chapter of the <hi>Revelations,</hi>
+            </p>
+            <p>But they ſay they have the marks of a true Church of Chriſt, The Word truly Preached.</p>
+            <p>To which I anſwer: That <hi>Balam</hi> the the falſe Prophet Preached Gods Word truly, in <hi>Balaks</hi> Aſſembly, but that could never prove them to be a true Church, nor did the people of God go to hear him, but ſlew him. <hi>Joſh:</hi> 13. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. And they ſay that they have alſo the Sa<g ref="char:EOLhyphen"/>craments duly adminiſtred. And ſo the Papiſts ſay for themſelves, But theſe are but their bare words at the beſt, and its better diſprove them then believe them.</p>
+            <p>But the common Proteſtants ſay their Church of <hi>England</hi> is true, becauſe they hold juſtification by faith only, and ſeem to blame the Parents, and diſprove their Church, for h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing juſtification by their own works; and yet they hold
+<pb n="25" facs="tcp:135109:13"/>
+the like, (if not the ſame,) erroni<g ref="char:EOLhyphen"/>ous opinion, of ſaving vertue, in their own works, as if they conferred grace, as appeareth in the ſecond anſwer in their Common Catechiſm, concerning Baptiſm, an inferior work, which they prefer above the the Lords Supper, al<g ref="char:EOLhyphen"/>though the Apoſtle <hi>Paul</hi> held (and hath ſhewed) Baptiſm to be ſo inferior, that he thankes God that he baptiſed none of the Chriſtians but <hi>Criſpas</hi> and <hi>Gayus,</hi> and the houſhold of <hi>Stephanus,</hi> and remem<g ref="char:EOLhyphen"/>bred not that he baptiſed any more, and ſaith, Chriſt ſent him not to baptiſe, but to preach the Goſpel. But indeed the Papiſts have an exceeding high o<g ref="char:EOLhyphen"/>pinion of outward Baptiſm, that it waſh<g ref="char:EOLhyphen"/>eth away Original ſin, and ſaveth them from being damned. They croſs their children on their foreheads, and have God-fathers and God-mothers, So have the Prelatical Party, but they do not ſpit in their mouths, as the Popiſh Prieſts do, (as King <hi>James</hi> ſaith, in his Book to all Chriſtian Kings and Princes) But they are conceited, (if not more groſly deluded) as if their Baptiſm made them members of Chriſt the children of God, and inheritors of the kingdom of heaven,
+<pb n="26" facs="tcp:135109:14"/>
+And this Doctrine they preſcribe, for all their members to believe and pro<g ref="char:EOLhyphen"/>feſs, before they come to their confir<g ref="char:EOLhyphen"/>mation. <hi>vizt.</hi> That in that Baptiſm, (by which they were baptized with God-fathers and God-mothers) they were made members of Chriſt, the children of God and inheritors of the kingdom of heaven, which I have good ground to deny, and they can never prove it, the Scripture is clear againſt this their vain conceit.</p>
+            <p>For the Apoſtle <hi>Peter</hi> ſaith, It is not the outward baptiſm, (or waſhing away of the filth of the fleſh) which ſaveth, but the anſwer of a good Conſcience. 1 <hi>Pet:</hi> 3. 21. And the way of the Goſpel is to baptiſe ſuch only as are the children of God and members of Chriſt before.</p>
+            <p>And the Apoſtle <hi>Paul</hi> ſaith not, that they are the children of God, by out<g ref="char:EOLhyphen"/>ward baptiſm, but by faith in Chriſt Je<g ref="char:EOLhyphen"/>ſus, And faith doth not come by baptiſm, <note place="margin">
+                  <hi>Gal.</hi> 3. 26.</note> but by the word of God. And their baptiſm which they receive afterward is no more but an outward ſeal admini<g ref="char:EOLhyphen"/>ſtred upon them, of the righteouſneſs of the faith which they had before baptiſm, as Circumciſion was to <hi>Abraham</hi> and
+<pb n="27" facs="tcp:135109:14"/>
+               <note place="margin">
+                  <hi>Rom.</hi> 4. 11,</note> 
+               <hi>Iſaac,</hi> as the Scriptures teſtifie, and none ought to be baptiſed, but ſuch as give ſuffi<g ref="char:EOLhyphen"/>cient teſtimony before, of their holy<g ref="char:EOLhyphen"/>neſſe, Or that the Lord teſtifieth for them.</p>
+            <p>So he teſtified of St. <hi>Paul,</hi> and St. <note place="margin">
+                  <hi>Act,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 15, 17, 18. <hi>&amp;</hi> 10. 47,</note> 
+               <hi>Cornelius</hi> was baptiſed upon this ground, that he had received the Holy Ghoſt before.</p>
+            <p>And whoſoever hath not the ſpirit of <note place="margin">
+                  <hi>Rom.</hi> 3. 9, 2 <hi>Cor.</hi> 13, 5,</note> Chriſt is none of his. Therefore the common Proteſtants are in a great error in this point of Baptiſm alſo.</p>
+            <p>For they ſhould know that the Infants <note place="margin">1 <hi>Cor.</hi> 7. 14. <hi>Rom.</hi> 11. <hi>Ezek.</hi> 18. 4 <hi>Luk.</hi> 19. 9,</note> of holy Parents are holy as their Parents.</p>
+            <p>They are as blameleſs as their Parents in their whole Spirit Soul and body.</p>
+            <p>The ſame grace, gracious promiſes, <note place="margin">
+                  <hi>Act.</hi> 2. 39 <hi>Deut.</hi> 29. 11 2 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 3,</note> and ſpiritual priviledges belongeth un<g ref="char:EOLhyphen"/>to them, as well as to their Parents, Yea, The kingdome of heaven it ſelfe, And <note place="margin">
+                  <hi>Mat.</hi> 19. 14.</note> if the greater then the leſſer. For as touching eternal Election, they are be<g ref="char:EOLhyphen"/>loved <note place="margin">
+                  <hi>Rom.</hi> 11. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> for the fathers; That is, pecu<g ref="char:EOLhyphen"/>liarly choſen of God for the love that he <note place="margin">
+                  <hi>Deut.</hi> 4. 37. <hi>Ezek.</hi> 18. 4. 20.</note> had to their fathers, and ſhall not dye eternally for the ſins of their fathers, <note place="margin">
+                  <hi>Rom,</hi> 2. 11. <hi>&amp;</hi> 8.</note> which they never committed, for herein God is no reſpecteer of perſons, meerly as they are perſons, and who can lay any
+<pb n="28" facs="tcp:135109:15"/>
+thing to their charge, ſin remitted ſhall not be imputed unleſſe irritterated, and their parents righteouſneſs, is theirs by imputation, as it was with <hi>Abraham</hi> and <note place="margin">2 <hi>Tim.</hi> 1. 5. <hi>Heb.</hi> 7. 9. 10</note> his ſeed, before they were circumciſed, ſo it is with the Chriſtians and their ſeed before they are baptiſed. Yea, the children of holy Patents are perfect in their wayes, before they are baptiſed, <note place="margin">
+                  <hi>Ezek.</hi> 28. 15.</note> even, from the day they are created, un<g ref="char:EOLhyphen"/>till iniquity is found in them; Such a perfection have they, which is opoſed to iniquity, And the Scripture ſaith, Bleſſed is the man to whom the Lord imputeth no ſin, and in whoſe Spirit <note place="margin">
+                  <hi>Pſal.</hi> 32. 3, 5.</note> there is no guile. Their nature of Creation is ſanctified by the ſpirit of regeneration, which dwelleth in them ſo that they are not imputed ſinners of the world, but clear, as the Scripture ſaith of the natural Jewes, who were Chriſtians: For although the children <note place="margin">
+                  <hi>Gal.</hi> 2. 15.</note> are partakers of fleſh and blood, as well as their Parents, Chriſt himſelfe alſo in like manner took part of the ſame, and died for them all, (not to free them from temporal, but) to ſave them from eternal death, though they ſhould dye before they are baptiſed with water.</p>
+            <p>
+               <pb n="29" facs="tcp:135109:15"/>
+And therefore the Infants are not the Children of wrath more then their Pa<g ref="char:EOLhyphen"/>rents, but the veſſels of mercy, as <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> and <hi>John</hi> the Baptiſt were, And ſo it becometh them to eſteem of them all and to ſpeak honourably of them, be<g ref="char:EOLhyphen"/>fore, (as well as after) their outward bap<g ref="char:EOLhyphen"/>tiſm which Baptiſm maketh not for the <note place="margin">
+                  <hi>Iſa.</hi> 22. 24.</note> being (but for the better being) of a Chriſtian, Therefore I cannot find in my heart to ſay that they are the chil<g ref="char:EOLhyphen"/>dren of wrath, and therefore ought to be baptiſed, but becauſe they are not under the wrath of God, nor under the curſe of the Law, but under the promiſe and grace of Chriſt, who never ſinned, and yet was baptized, by <hi>John</hi> the Baptiſt.</p>
+            <p>Therefore they ought to be baptiſed, though they have never committed actu<g ref="char:EOLhyphen"/>al ſin, but ſinned in their Parents as <hi>Lvey</hi> paid tythes in <hi>Abraham.</hi>
+            </p>
+            <p>What though <hi>David</hi> declareth his <note place="margin">
+                  <hi>Rom.</hi> 5. <hi>Heb.</hi> 7. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 10.</note> Original ſin (or ſin of inclination) the ground of his actual ſin (or ſin of appre<g ref="char:EOLhyphen"/>henſion) as it is written, In ſin hath my mother conceived me? yet, until he committed actual ſin, he was no more guilty of ſin, then his mother, nor was <hi>Iſaac</hi> a child of wrath, more then faith<g ref="char:EOLhyphen"/>full
+<pb n="30" facs="tcp:135109:16"/>
+               <hi>Abraham</hi> and <hi>Sarah.</hi>
+            </p>
+            <p>Original ſin taketh no more hold of the Infants to damne them eternally, then of their parents.</p>
+            <p>And touching actual ſinne, they are clear as their Parents, though their Pa<g ref="char:EOLhyphen"/>rents are as righteous as <hi>Noah, Daniel</hi> and <hi>Job.</hi> And therefore they have as much right to Baptiſm, as their Parents. And in this bleſſed condition are they before they are baptiſed with water, And are not in the ſtate of damnation, though they die in their Infancie before, but ſhall be eternally ſaved. And the con<g ref="char:EOLhyphen"/>trary Doctrine is very unſound, eronious uncomfortable and deſtructive.</p>
+            <p>But Antichriſts Church profeſſeth the contrary openly; And teach their chil<g ref="char:EOLhyphen"/>dren to ſay that they are made members of Chriſt in their baptiſm with God-fa<g ref="char:EOLhyphen"/>thers and God-mothers, So then it is re<g ref="char:EOLhyphen"/>markable, that they are their own judges that they baptiſe none but ſuch as are not members of Chriſt before their bap<g ref="char:EOLhyphen"/>tiſm. It followeth then by their own words, that they are members of Anti<g ref="char:EOLhyphen"/>chriſt, and in the ſtate of damnation be<g ref="char:EOLhyphen"/>fore (and until) outward baptiſm be ad<g ref="char:EOLhyphen"/>miniſtred upon them, which to affirm
+<pb n="31" facs="tcp:135109:16"/>
+of the Infants of Godly Parents is an Antichriſtian error, deſtroying the foun<g ref="char:EOLhyphen"/>dation and hope of the faithful, and how can that Church be the true Church of God, who are ſo corrupt, and whoſe conſtitution (manifeſted by ſuch their eronious profeſſion is ſo deſtructive, openly to baptiſe ſuch as are not members of Chriſt. To conclude, by their own ground, their Church members, are not members of Chriſt before their Baptiſm, and I have proved, that they are not made members of Chriſt by their Bap<g ref="char:EOLhyphen"/>tiſm after;</p>
+            <p>Much leſſe can any of them truly ſay, as each child of theirs is taught to ſay, that, In my Baptiſm I was made [the] child of God</p>
+            <p>So <hi>James Nayler</hi> ſaid, I am [the] Son of God.</p>
+            <p>This dignitie belongeth only to the holy child child Jeſus Chriſt the Son of God. To whom be Glory and Domi<g ref="char:EOLhyphen"/>nion for ever. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="creed">
+            <head>Here followeth A New and true Chriſtian Creed, built upon the old foundation of the Holy Apoſtles and Prophets, Jeſus Chriſt being the chief corner ſtone.</head>
+            <p>
+               <pb facs="tcp:135109:17" rendition="simple:additions"/>
+               <hi>I Believe in God the Father</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> 1. <hi>Ioh.</hi> 1. 14. <hi>Luk.</hi> 1. 35. <hi>Mat.</hi> 1. 25. <hi>Iob.</hi> 19. 33. 42. 1 <hi>Cor.</hi> 15. 3. 4, 5,—20. <hi>Ioh.</hi> 20. 17, <hi>Mat.</hi> 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 26 <hi>Mar.</hi> 16. 19 <hi>Act.</hi> 1. 11. <hi>Joh.</hi> 5. 29. 1 <hi>Cor.</hi> 15. 51, 52. 1 <hi>Theſ.</hi> 4. 15 <hi>Joh.</hi> 14. 16 17, 26. 1 <hi>Cor.</hi> 12, 3, <hi>Rom.</hi> 8. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 <hi>Tim.</hi> 3. 16. <hi>Act.</hi> 17. 11 <hi>Rom.</hi> 15. 4. <hi>Rev.</hi> 22. 18. 19. <hi>Mat.</hi> 18. 17.—20. 1 <hi>Pet,</hi> 2. 9. <hi>Phil.</hi> 1, 5. <hi>Rev:</hi> 8, 3, 4 <hi>Mat:</hi> 12. 31<g ref="char:punc">▪</g> 32, 1 <hi>Cor:</hi> 15, 1 <hi>Theſ:</hi> 4, 14 <hi>Joh:</hi> 3, 16,</note> 
+               <hi>Almighty, maker of heaven and earth, And in Ieſus Chriſt his only Son our Lord, which was conceived by the power of the Holy Ghoſt, born of the Vir<g ref="char:EOLhyphen"/>gin Mary, ſuffered under Pon<g ref="char:EOLhyphen"/>tius Pilate. was crucified, dead and buried, The third day he roſe again from the dead, he aſcended into Heaven, and ſit<g ref="char:EOLhyphen"/>teth at the right hand of God the father Almighty, from thence he ſhall come to judge the living and the dead.</hi>
+            </p>
+            <p>
+               <hi>I believe in the holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>The holy Scriptures.</hi>
+            </p>
+            <p>
+               <hi>The holy Church.</hi>
+            </p>
+            <p>
+               <hi>The Communion of Saints.</hi>
+            </p>
+            <p>
+               <hi>The forgiveneſs of ſins.</hi>
+            </p>
+            <p>
+               <hi>The Reſurrection of the body,</hi>
+            </p>
+            <p>
+               <hi>And the Life everlaſting.</hi>
+            </p>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for the Author. <hi>S. C.</hi> 1673.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
